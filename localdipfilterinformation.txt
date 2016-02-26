@@ -1,0 +1,26 @@
+Input Original Data:
+H:\Chen\XJ0920\LocalDip3dFilter\Release\gtz_IL401_XL401_TM201.sgy
+Input Dip:
+H:\Chen\XJ0920\LocalDip3dFilter\Release\gtz_IL401_XL401_TM201_MVDF_Dip.sgy
+Input Azimuth:
+H:\Chen\XJ0920\LocalDip3dFilter\Release\gtz_IL401_XL401_TM201_MVDF_Azi.sgy
+Output Denoized Data:
+H:\Chen\XJ0920\LocalDip3dFilter\Release\gtz_IL401_XL401_TM201_Smth.sgy
+Format(0 for little endian, 1 for big endian):
+1
+Inline:
+900	1300	
+Xxline:
+1300	1700
+Time:
+201	0.001
+Inline Position:
+17
+Xxline Position:
+25
+Inline Size Per Calculation:
+130
+Xxline Size Per Calculation:
+130
+Zztime Size Per Calculation:
+230
